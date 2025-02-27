@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ruben\\Desktop\\decifratura\\decifratura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAC39DE-B54A-4728-8F5C-B96175AC55C8}|decifratura\\decifratura.csproj|c:\\users\\ruben\\desktop\\decifratura\\decifratura\\decifratura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAC39DE-B54A-4728-8F5C-B96175AC55C8}|decifratura\\decifratura.csproj|solutionrelative:decifratura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruben\\Desktop\\decifratura\\decifratura\\decifratura\\Program.cs",
+              "RelativeDocumentMoniker": "decifratura\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruben\\Desktop\\decifratura\\decifratura\\decifratura\\Program.cs",
+              "RelativeToolTip": "decifratura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:15:10.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
